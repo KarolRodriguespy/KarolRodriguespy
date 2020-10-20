@@ -9,6 +9,7 @@
 </table>
 </center>  
 
+![](https://komarev.com/ghpvc/?username=KarolRodriguespy&color=lightgrey&style=plastic)
 
 ### Hi there 👋
 
@@ -23,5 +24,6 @@
 
 ![linkedin (4)](https://user-images.githubusercontent.com/54186689/96528577-7dfc2d00-1259-11eb-9e4d-526cc4165895.png) [LinkedIn](https://www.linkedin.com/in/karoline-rodrigues-6883089b)  
 ![new-email](https://user-images.githubusercontent.com/54186689/96528932-40e46a80-125a-11eb-93db-082078724b36.png) [Email](mailto:kr.araujo.12@gmail.com)  
+
 
 
