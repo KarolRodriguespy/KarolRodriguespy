@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-- :computer: I’m currently working on **Wiser Educação**
+- :computer: I’m currently working on **Asaas Gestão Financeira**
 - :bar_chart: I use daily: `python`,`pandas`,`SQL`
 - 🌱 Learning more about and studyinng: **Machine Learning**, **ETL**, **Statistic**
 - 🤔 I’m looking for help with **Machine Learning**
