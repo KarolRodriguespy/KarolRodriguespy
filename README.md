@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-- :computer: I’m currently working at **EBANX**
+- :computer: I’m currently working at **Boticário**
 - :bar_chart: I use daily: `python`,`pandas`,`SQL`
 - 🌱 Learning more about and studyinng: **Machine Learning**, **ETL**, **Statistic**
 - 🤔 I’m looking for help with **Machine Learning**
