@@ -1,4 +1,4 @@
-![Karoline_Rodrigues](https://user-images.githubusercontent.com/54186689/96526636-9453ba00-1254-11eb-87c1-d706822e3bfa.png)
+![Karoline Rodrigues](https://user-images.githubusercontent.com/54186689/226476476-fb0d98c2-179c-44d6-ae83-c57f2dc2bd89.png)
 
 <center>
 <table>
@@ -14,9 +14,8 @@
 ### Hi there 👋
 
 - :computer: I’m currently working at **Boticário**
-- :bar_chart: I use daily: `python`,`pandas`,`SQL`
-- 🌱 Learning more about and studyinng: **Machine Learning**, **ETL**, **Statistic**
-- 🤔 I’m looking for help with **Machine Learning**
+- :bar_chart: I use daily: `python`,`pandas`,`SQL`, `GCP`, `Airflow`
+- 🌱 Learning more about and studyinng: **streaming**, **Airflow**, **GCP**, **Python**
 - 💬 Ask me about **SQL**
 - :cactus: Interests: Plants, :cat: and The Sims
 
